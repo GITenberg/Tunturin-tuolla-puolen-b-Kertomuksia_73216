@@ -1,0 +1,39 @@
+_repo: Tunturin-tuolla-puolen-b-Kertomuksia_73216
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järventaus, Arvi
+    aliases:
+    - Järventaus, Heikki Arvi
+    - Jarventaus, Arvi
+    - Ockenström, Heikki Arvi
+    - Ockenstrom, Heikki Arvi
+    birthdate: 1883
+    deathdate: 1939
+    gutenberg_agent_id: '44905'
+    url: http://www.gutenberg.org/2009/agents/44905
+    wikipedia: https://fi.wikipedia.org/wiki/Arvi_J%C3%A4rventaus
+description: ''
+gutenberg_issued: '2024-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73216'
+language: fi
+pgterms:marc905: 20240202234023jrventaus
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Nimismiehentytär ja torpanpoika -- Kinkereillä -- Kosinta -- Erkki-Antti
+  Juhonpietin näky -- Vanha kirkkoväärti -- Vallankaappaus -- Ison Oskalon pojan rakkaus
+  -- Voitto.
+title: 'Tunturin tuolla puolen : $b Kertomuksia'
+url: http://www.gutenberg.org/ebooks/73216
